@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-##### Current projects 
-Torque3D<br>
+#### Current projects 
+
 Dark Principality (SciFi Shooter Game using Torque3D)<br>
 RPG Starter (An RPG game maker template and assets based on Torque3D)<br>
-
+Occasional contributer to Torque3D<br>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bloodknight&show_icons=true&count_private=true&theme=radical)
 
